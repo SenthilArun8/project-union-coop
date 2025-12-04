@@ -1,0 +1,2680 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4883850843425,
+          43.4470067738546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1181,
+        "PROPERTY_UNIT_ID": 1005148,
+        "CIVIC_NO": 53,
+        "STREET": "CHURCH ST",
+        "UNIT": null,
+        "OWNERNAME": "MARTIN LUTHER EVANGELICAL CHURCH INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "MARTIN LUTHER EVANGELICAL CHURCH, INC.",
+        "BUSINESS_TYPE": "Federal Non-Profit",
+        "CORPORATION_NUMBER": "326528-5",
+        "MATCH_SCORE": 97.2972972972973,
+        "DATA_SOURCE": "charity_business_overlaps.csv"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4439511820111,
+          43.4641493441314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1988,
+        "PROPERTY_UNIT_ID": 1069859,
+        "CIVIC_NO": 77,
+        "STREET": "HALIFAX DR",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4960041192726,
+          43.4495850557256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2140,
+        "PROPERTY_UNIT_ID": 1021628,
+        "CIVIC_NO": 129,
+        "STREET": "JOSEPH ST",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47697864162,
+          43.4587014304386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7377,
+        "PROPERTY_UNIT_ID": 1003284,
+        "CIVIC_NO": 53,
+        "STREET": "DUNHAM AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4823871524146,
+          43.4658031918193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7810,
+        "PROPERTY_UNIT_ID": 1059338,
+        "CIVIC_NO": 797,
+        "STREET": "GUELPH ST",
+        "UNIT": null,
+        "OWNERNAME": "COLUMBUS KITCHENER CO-OPERATIVE INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "COLUMBUS KITCHENER CO-OPERATIVE INC. (1851852)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "1851852",
+        "MATCH_SCORE": 86.41975308641976,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5130584655989,
+          43.4414562797242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8106,
+        "PROPERTY_UNIT_ID": 40248779,
+        "CIVIC_NO": 298,
+        "STREET": "LAWRENCE AVE",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5086075093639,
+          43.4501627438041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8559,
+        "PROPERTY_UNIT_ID": 1046282,
+        "CIVIC_NO": 124,
+        "STREET": "STRANGE ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4383802919675,
+          43.4341487579045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10496,
+        "PROPERTY_UNIT_ID": 1060644,
+        "CIVIC_NO": 62,
+        "STREET": "FALESY AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4755630333578,
+          43.445638058922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12557,
+        "PROPERTY_UNIT_ID": 1021411,
+        "CIVIC_NO": 51,
+        "STREET": "STIRLING AVE N",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4422098700553,
+          43.3923464317037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13273,
+        "PROPERTY_UNIT_ID": 1054184,
+        "CIVIC_NO": 3,
+        "STREET": "HARVEST CRT",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4939747862593,
+          43.4436781578287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13620,
+        "PROPERTY_UNIT_ID": 1044319,
+        "CIVIC_NO": 34,
+        "STREET": "MILL ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4506157751445,
+          43.4310698752793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13672,
+        "PROPERTY_UNIT_ID": 1050913,
+        "CIVIC_NO": 100,
+        "STREET": "FRANKLIN ST S",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4373208751407,
+          43.4343192355288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13783,
+        "PROPERTY_UNIT_ID": 1012565,
+        "CIVIC_NO": 34,
+        "STREET": "JEAN AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4755140492432,
+          43.4457147957104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14556,
+        "PROPERTY_UNIT_ID": 1045334,
+        "CIVIC_NO": 53,
+        "STREET": "STIRLING AVE N",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4769120159926,
+          43.4585883135966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15119,
+        "PROPERTY_UNIT_ID": 1003285,
+        "CIVIC_NO": 57,
+        "STREET": "DUNHAM AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4760911877194,
+          43.4442228434599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15140,
+        "PROPERTY_UNIT_ID": 1061301,
+        "CIVIC_NO": 800,
+        "STREET": "KING ST E",
+        "UNIT": null,
+        "OWNERNAME": "FIRST MENNONITE CHURCH KITCHENER",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "FIRST MENNONITE CHURCH KITCHENER",
+        "BUSINESS_TYPE": "Federal Non-Profit",
+        "CORPORATION_NUMBER": "407533-1",
+        "MATCH_SCORE": 100.0,
+        "DATA_SOURCE": "charity_business_overlaps.csv"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4760911877194,
+          43.4442228434599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15141,
+        "PROPERTY_UNIT_ID": 1061301,
+        "CIVIC_NO": 800,
+        "STREET": "KING ST E",
+        "UNIT": null,
+        "OWNERNAME": "SHALOM WORSHIP AND HEALING CENTER",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "SHALOM WORSHIP AND HEALING CENTER (1889423)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1889423",
+        "MATCH_SCORE": 86.8421052631579,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4369825685942,
+          43.4339951910026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15435,
+        "PROPERTY_UNIT_ID": 1060754,
+        "CIVIC_NO": 154,
+        "STREET": "KRAFT AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4752222379167,
+          43.4459802945619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17667,
+        "PROPERTY_UNIT_ID": 1021412,
+        "CIVIC_NO": 65,
+        "STREET": "STIRLING AVE N",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4376623307977,
+          43.4346198324836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17827,
+        "PROPERTY_UNIT_ID": 1012562,
+        "CIVIC_NO": 20,
+        "STREET": "JEAN AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.520942143301,
+          43.4475439619856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20466,
+        "PROPERTY_UNIT_ID": 1048006,
+        "CIVIC_NO": 164,
+        "STREET": "BRANDON AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5083780122701,
+          43.4463796807942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22046,
+        "PROPERTY_UNIT_ID": 1021067,
+        "CIVIC_NO": 155,
+        "STREET": "CHERRY ST",
+        "UNIT": null,
+        "OWNERNAME": "ASGARD GREEN CO-OPERATIVE HOMES INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "ASGARD GREEN CO-OPERATIVE HOMES, INC. (522379)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522379",
+        "MATCH_SCORE": 86.41975308641976,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5233964911287,
+          43.4319828210025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22642,
+        "PROPERTY_UNIT_ID": 1012640,
+        "CIVIC_NO": 260,
+        "STREET": "OVERLEA DR",
+        "UNIT": null,
+        "OWNERNAME": "HISLACAN HOMES KITCHENER-WATERLOO INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "HISLACAN HOMES KITCHENER-WATERLOO INC. (495856)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "495856",
+        "MATCH_SCORE": 88.09523809523809,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4940684507162,
+          43.443776154894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23099,
+        "PROPERTY_UNIT_ID": 1006249,
+        "CIVIC_NO": 32,
+        "STREET": "MILL ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4946129645851,
+          43.4273229570226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23639,
+        "PROPERTY_UNIT_ID": 1061886,
+        "CIVIC_NO": 38,
+        "STREET": "YAGER AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.467269720379,
+          43.4448491228257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25619,
+        "PROPERTY_UNIT_ID": 1007910,
+        "CIVIC_NO": 494,
+        "STREET": "EAST AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4890618442321,
+          43.477050931824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26608,
+        "PROPERTY_UNIT_ID": 1008221,
+        "CIVIC_NO": 4,
+        "STREET": "HORIZON CRT",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4886315036496,
+          43.4339146566861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29169,
+        "PROPERTY_UNIT_ID": 1045579,
+        "CIVIC_NO": 102,
+        "STREET": "HEIMAN ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.489492060271,
+          43.4492063897509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30877,
+        "PROPERTY_UNIT_ID": 1024312,
+        "CIVIC_NO": 43,
+        "STREET": "QUEEN ST S",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4748311050344,
+          43.4460356440023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31598,
+        "PROPERTY_UNIT_ID": 1001490,
+        "CIVIC_NO": 241,
+        "STREET": "WEBER ST E",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.496187119759,
+          43.4341473623345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32252,
+        "PROPERTY_UNIT_ID": 1076425,
+        "CIVIC_NO": 598,
+        "STREET": "STIRLING AVE S",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4960855360201,
+          43.4293353433339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32877,
+        "PROPERTY_UNIT_ID": 1015463,
+        "CIVIC_NO": 747,
+        "STREET": "STIRLING AVE S",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4446876861053,
+          43.3935015540679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36344,
+        "PROPERTY_UNIT_ID": 1003792,
+        "CIVIC_NO": 737,
+        "STREET": "DOON VILLAGE RD",
+        "UNIT": null,
+        "OWNERNAME": "NEW GENERATION CO-OPERATIVE HOMES INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "NEW GENERATION CO-OPERATIVE HOMES INC. (522393)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522393",
+        "MATCH_SCORE": 88.09523809523809,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4309147004844,
+          43.4342507142158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37783,
+        "PROPERTY_UNIT_ID": 1007302,
+        "CIVIC_NO": 152,
+        "STREET": "THALER AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4767121884225,
+          43.4713906116424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37897,
+        "PROPERTY_UNIT_ID": 1011343,
+        "CIVIC_NO": 23,
+        "STREET": "CAMPBELL AVE",
+        "UNIT": null,
+        "OWNERNAME": "TRUE JESUS CHURCH IN KITCHENER-WATERLOO",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "TRUE JESUS CHURCH IN KITCHENER-WATERLOO (1950284)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1950284",
+        "MATCH_SCORE": 88.63636363636364,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5196192826866,
+          43.4396132400178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39030,
+        "PROPERTY_UNIT_ID": 1027127,
+        "CIVIC_NO": 667,
+        "STREET": "VICTORIA ST S",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5292362478878,
+          43.4328201972298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40567,
+        "PROPERTY_UNIT_ID": 1076253,
+        "CIVIC_NO": 5,
+        "STREET": "BENESFORT DR",
+        "UNIT": null,
+        "OWNERNAME": "SPRUCEWOODS CO-OPERATIVE HOMES INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "SPRUCEWOODS CO-OPERATIVE HOMES INC. (522605)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522605",
+        "MATCH_SCORE": 87.17948717948718,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4685203316876,
+          43.4134102392215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44139,
+        "PROPERTY_UNIT_ID": 1018057,
+        "CIVIC_NO": 225,
+        "STREET": "COUNTRY HILL DR",
+        "UNIT": null,
+        "OWNERNAME": "AVENTINE CO-OPERATIVE HOMES INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "AVENTINE CO-OPERATIVE HOMES INC. (522202)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522202",
+        "MATCH_SCORE": 86.11111111111111,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4846934371449,
+          43.4492758236482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47052,
+        "PROPERTY_UNIT_ID": 1010661,
+        "CIVIC_NO": 111,
+        "STREET": "DUKE ST E",
+        "UNIT": null,
+        "OWNERNAME": "CHILD WITNESS CENTRE OF WATERLOO REGION",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "CHILD WITNESS CENTRE OF WATERLOO REGION (557582)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "557582",
+        "MATCH_SCORE": 89.65517241379311,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4938990982713,
+          43.4540927455778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47548,
+        "PROPERTY_UNIT_ID": 1062832,
+        "CIVIC_NO": null,
+        "STREET": "HEIT LANE",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4839722748233,
+          43.4654976749534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49784,
+        "PROPERTY_UNIT_ID": 1046683,
+        "CIVIC_NO": 196,
+        "STREET": "LANCASTER ST W",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4751044646842,
+          43.4461967243533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52873,
+        "PROPERTY_UNIT_ID": 1063357,
+        "CIVIC_NO": 71,
+        "STREET": "STIRLING AVE N",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4816381875191,
+          43.411239517186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53451,
+        "PROPERTY_UNIT_ID": 1013757,
+        "CIVIC_NO": 10,
+        "STREET": "THE COUNTRY WAY",
+        "UNIT": null,
+        "OWNERNAME": "SIMON BOLIVAR HOUSING CO-OPERATIVE INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "SIMON BOLIVAR HOUSING CO-OPERATIVE INC. (522036)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522036",
+        "MATCH_SCORE": 88.37209302325581,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5012204383247,
+          43.4561556666566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53839,
+        "PROPERTY_UNIT_ID": 1046713,
+        "CIVIC_NO": 70,
+        "STREET": "LOUISA ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5613679391728,
+          43.4244568327053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54670,
+        "PROPERTY_UNIT_ID": 1042624,
+        "CIVIC_NO": 1780,
+        "STREET": "GLASGOW ST",
+        "UNIT": null,
+        "OWNERNAME": "VERIDEIA CLASSICAL CHRISTIAN ACADEMY",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "VERIDEIA CLASSICAL CHRISTIAN ACADEMY (750647)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "750647",
+        "MATCH_SCORE": 88.88888888888889,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.437373453557,
+          43.4343655381353
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57955,
+        "PROPERTY_UNIT_ID": 1012564,
+        "CIVIC_NO": 32,
+        "STREET": "JEAN AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4967471364645,
+          43.4362296768531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58806,
+        "PROPERTY_UNIT_ID": 1059939,
+        "CIVIC_NO": 29,
+        "STREET": "NORFOLK CRES",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623008085696,
+          43.4559211874355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63439,
+        "PROPERTY_UNIT_ID": 1046781,
+        "CIVIC_NO": 485,
+        "STREET": "KRUG ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4488739560681,
+          43.4355754310067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63803,
+        "PROPERTY_UNIT_ID": 1005102,
+        "CIVIC_NO": 57,
+        "STREET": "BROADVIEW AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4339551544762,
+          43.3937895763238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64240,
+        "PROPERTY_UNIT_ID": 1019699,
+        "CIVIC_NO": 11,
+        "STREET": "OLD CARRIAGE DR",
+        "UNIT": null,
+        "OWNERNAME": "PIONEER PARK CHURCH OF GOD",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "PIONEER PARK CHURCH OF GOD (349155)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "349155",
+        "MATCH_SCORE": 85.24590163934427,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4864550095984,
+          43.465381478997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64345,
+        "PROPERTY_UNIT_ID": 1063469,
+        "CIVIC_NO": 687,
+        "STREET": "GUELPH ST",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4855577292749,
+          43.4464306161632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66565,
+        "PROPERTY_UNIT_ID": 1004332,
+        "CIVIC_NO": 49,
+        "STREET": "EBY ST S",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5043019394593,
+          43.4209788225868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67252,
+        "PROPERTY_UNIT_ID": 1050575,
+        "CIVIC_NO": 35,
+        "STREET": "HOWE DR",
+        "UNIT": null,
+        "OWNERNAME": "EMANUEL HOUSING CO-OPERATIVE INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "EMANUEL HOUSING CO-OPERATIVE INC. (522330)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522330",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4323542056087,
+          43.432070741491
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67751,
+        "PROPERTY_UNIT_ID": 1014282,
+        "CIVIC_NO": 131,
+        "STREET": "JANSEN AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4042023859021,
+          43.4088295431059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67772,
+        "PROPERTY_UNIT_ID": 40251131,
+        "CIVIC_NO": null,
+        "STREET": "DEER RIDGE DR",
+        "UNIT": null,
+        "OWNERNAME": "AUDUBON COMMUNITY ASSOCIATION",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "AUDUBON COMMUNITY ASSOCIATION (1327255)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1327255",
+        "MATCH_SCORE": 85.29411764705883,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.484170659222,
+          43.4319426763983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70229,
+        "PROPERTY_UNIT_ID": 1054304,
+        "CIVIC_NO": 100,
+        "STREET": "HOFFMAN ST",
+        "UNIT": null,
+        "OWNERNAME": "IMMANUEL PENTECOSTAL CHURCH OF KITCHENER",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "IMMANUEL PENTECOSTAL CHURCH OF KITCHENER (1699709)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1699709",
+        "MATCH_SCORE": 88.88888888888889,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.467509764102,
+          43.443667218802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70858,
+        "PROPERTY_UNIT_ID": 1059982,
+        "CIVIC_NO": 533,
+        "STREET": "WEBER ST E",
+        "UNIT": null,
+        "OWNERNAME": "KINGDOM COMMUNITY INTERNATIONAL",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "KINGDOM COMMUNITY INTERNATIONAL (1626489)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1626489",
+        "MATCH_SCORE": 86.11111111111111,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4820786775397,
+          43.4553811971405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74395,
+        "PROPERTY_UNIT_ID": 1063584,
+        "CIVIC_NO": 79,
+        "STREET": "LANCASTER ST E",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4978598027118,
+          43.439140992143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74645,
+        "PROPERTY_UNIT_ID": 1050696,
+        "CIVIC_NO": 40,
+        "STREET": "SPADINA RD E",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.468026583023,
+          43.4435157204442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74741,
+        "PROPERTY_UNIT_ID": 1061387,
+        "CIVIC_NO": 113,
+        "STREET": "OTTAWA ST N",
+        "UNIT": null,
+        "OWNERNAME": "KINGDOM COMMUNITY INTERNATIONAL",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "KINGDOM COMMUNITY INTERNATIONAL (1626489)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1626489",
+        "MATCH_SCORE": 86.11111111111111,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4917167240428,
+          43.437630464874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75590,
+        "PROPERTY_UNIT_ID": 1052250,
+        "CIVIC_NO": 214,
+        "STREET": "HIGHLAND RD E",
+        "UNIT": null,
+        "OWNERNAME": "ST MARY ERITREAN ORTHODOX AGAZIAN CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "SAINT MARY ERITREAN ORTHODOX AGAZIAN CHURCH (1506311)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1506311",
+        "MATCH_SCORE": 86.02150537634408,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4378461566675,
+          43.4365881831013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75811,
+        "PROPERTY_UNIT_ID": 1014961,
+        "CIVIC_NO": 220,
+        "STREET": "FERGUS AVE",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4383373069554,
+          43.4341025028787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77013,
+        "PROPERTY_UNIT_ID": 1005384,
+        "CIVIC_NO": 66,
+        "STREET": "FALESY AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.426707904671,
+          43.4352433909038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77220,
+        "PROPERTY_UNIT_ID": 1046084,
+        "CIVIC_NO": 112,
+        "STREET": "SCENIC DR",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5038844181866,
+          43.4457984190007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79327,
+        "PROPERTY_UNIT_ID": 1069447,
+        "CIVIC_NO": 241,
+        "STREET": "VICTORIA ST S",
+        "UNIT": null,
+        "OWNERNAME": "WILLOWSIDE HOUSING CO-OPERATIVE INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "WILLOWSIDE HOUSING CO-OPERATIVE INC. (522355)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522355",
+        "MATCH_SCORE": 87.5,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79443,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4970020603786,
+          43.4383466323137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79443,
+        "PROPERTY_UNIT_ID": 1072026,
+        "CIVIC_NO": 15,
+        "STREET": "WINDSOR CRES",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4785025223929,
+          43.4422164476442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80962,
+        "PROPERTY_UNIT_ID": 1007037,
+        "CIVIC_NO": 68,
+        "STREET": "KENT AVE",
+        "UNIT": null,
+        "OWNERNAME": "CENTRAL ONTARIO MUSICIANS ASSOCIATION",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "CENTRAL ONTARIO MUSICIANS' ASSOCIATION (1940200)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1940200",
+        "MATCH_SCORE": 87.05882352941177,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.453881830573,
+          43.4382432066322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82631,
+        "PROPERTY_UNIT_ID": 1042026,
+        "CIVIC_NO": 315,
+        "STREET": "PROSPECT AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4593883414616,
+          43.4446354391967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84157,
+        "PROPERTY_UNIT_ID": 1072408,
+        "CIVIC_NO": 290,
+        "STREET": "SHELDON AVE N",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4230818233574,
+          43.427086672713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84419,
+        "PROPERTY_UNIT_ID": 1054117,
+        "CIVIC_NO": 308,
+        "STREET": "MORGAN AVE",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4685817460762,
+          43.4794183189532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84517,
+        "PROPERTY_UNIT_ID": 1011619,
+        "CIVIC_NO": 78,
+        "STREET": "STANLEY AVE",
+        "UNIT": null,
+        "OWNERNAME": "TRAVERSE INDEPENDENCE NOT-FOR-PROFIT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "TRAVERSE INDEPENDENCE NOT-FOR-PROFIT (354436)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "354436",
+        "MATCH_SCORE": 88.88888888888889,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4838280492537,
+          43.4445552223098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85665,
+        "PROPERTY_UNIT_ID": 1051530,
+        "CIVIC_NO": 83,
+        "STREET": "MADISON AVE S",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.435244750863,
+          43.4534267463673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86535,
+        "PROPERTY_UNIT_ID": 1073525,
+        "CIVIC_NO": 90,
+        "STREET": "CARNABY CRES",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4945066681588,
+          43.4390078900976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88562,
+        "PROPERTY_UNIT_ID": 1064118,
+        "CIVIC_NO": 142,
+        "STREET": "SPADINA RD E",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4845306788796,
+          43.4484673852527
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89199,
+        "PROPERTY_UNIT_ID": 2057986,
+        "CIVIC_NO": 37,
+        "STREET": "MARKET LANE",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4922058128357,
+          43.4528466895667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89531,
+        "PROPERTY_UNIT_ID": 4014455,
+        "CIVIC_NO": 45,
+        "STREET": "COLLEGE ST",
+        "UNIT": null,
+        "OWNERNAME": "WILFRID LAURIER UNIVERSITY",
+        "AGENCY": "UNIVERSITY/COLLEGE",
+        "MATCHED_BUSINESS_NAME": "WILFRID LAURIER UNIVERSITY (100472)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "100472",
+        "MATCH_SCORE": 85.24590163934427,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4877862909139,
+          43.4353726998501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93831,
+        "PROPERTY_UNIT_ID": 1002361,
+        "CIVIC_NO": 111,
+        "STREET": "CHARLES BEST PL",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5413719642153,
+          43.4134602255747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97029,
+        "PROPERTY_UNIT_ID": 1073386,
+        "CIVIC_NO": 129,
+        "STREET": "CEDAR CREST ST",
+        "UNIT": null,
+        "OWNERNAME": "ISLAMIC CO-OPERATIVE HOUSING CORPORATION",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "ISLAMIC CO-OPERATIVE HOUSING CORPORATION LTD. (432481)",
+        "BUSINESS_TYPE": "Co-operative with Share",
+        "CORPORATION_NUMBER": "432481",
+        "MATCH_SCORE": 85.1063829787234,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4305156441454,
+          43.4427194948434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97030,
+        "PROPERTY_UNIT_ID": 1075586,
+        "CIVIC_NO": 250,
+        "STREET": "OLD CHICOPEE DR",
+        "UNIT": null,
+        "OWNERNAME": "GRANDVIEW BAPTIST CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "GRANDVIEW BAPTIST CHURCH",
+        "BUSINESS_TYPE": "Federal Non-Profit",
+        "CORPORATION_NUMBER": "344895-9",
+        "MATCH_SCORE": 100.0,
+        "DATA_SOURCE": "charity_business_overlaps.csv"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5256423312505,
+          43.4350684278123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97177,
+        "PROPERTY_UNIT_ID": 1022706,
+        "CIVIC_NO": 67,
+        "STREET": "MONTE CARLO ST",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4528415434249,
+          43.373507827649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97914,
+        "PROPERTY_UNIT_ID": 1069655,
+        "CIVIC_NO": null,
+        "STREET": "STAUFFER DR",
+        "UNIT": null,
+        "OWNERNAME": "WHITE OWL NATIVE ANCESTRY ASSOCIATION",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "WHITE OWL NATIVE ANCESTRY ASSOCIATION (313363)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "313363",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4039413588088,
+          43.4088665056783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101135,
+        "PROPERTY_UNIT_ID": 40251708,
+        "CIVIC_NO": null,
+        "STREET": "DEER RIDGE DR",
+        "UNIT": null,
+        "OWNERNAME": "AUDUBON COMMUNITY ASSOCIATION",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "AUDUBON COMMUNITY ASSOCIATION (1327255)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1327255",
+        "MATCH_SCORE": 85.29411764705883,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5008593577984,
+          43.422337335496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101878,
+        "PROPERTY_UNIT_ID": 1019161,
+        "CIVIC_NO": 250,
+        "STREET": "CHANDLER DR",
+        "UNIT": null,
+        "OWNERNAME": "SAND HILLS CO-OPERATIVE HOMES INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "SAND HILLS CO-OPERATIVE HOMES INC. (522331)",
+        "BUSINESS_TYPE": "Co-operative Non-Share",
+        "CORPORATION_NUMBER": "522331",
+        "MATCH_SCORE": 86.8421052631579,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4747590363541,
+          43.4459241180775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102919,
+        "PROPERTY_UNIT_ID": 1075949,
+        "CIVIC_NO": null,
+        "STREET": "WEBER ST E",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4849360347392,
+          43.4831867800241
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103017,
+        "PROPERTY_UNIT_ID": 1060187,
+        "CIVIC_NO": 40,
+        "STREET": "BRIDGE ST W",
+        "UNIT": null,
+        "OWNERNAME": "GRANDVIEW BAPTIST CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "GRANDVIEW BAPTIST CHURCH",
+        "BUSINESS_TYPE": "Federal Non-Profit",
+        "CORPORATION_NUMBER": "344895-9",
+        "MATCH_SCORE": 100.0,
+        "DATA_SOURCE": "charity_business_overlaps.csv"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4771147634228,
+          43.4124874667396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103528,
+        "PROPERTY_UNIT_ID": 1024111,
+        "CIVIC_NO": 818,
+        "STREET": "STRASBURG RD",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4669707600803,
+          43.4799610391847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104116,
+        "PROPERTY_UNIT_ID": 3059291,
+        "CIVIC_NO": 120,
+        "STREET": "TAGGE ST",
+        "UNIT": null,
+        "OWNERNAME": "TRAVERSE INDEPENDENCE NOT-FOR-PROFIT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "TRAVERSE INDEPENDENCE NOT-FOR-PROFIT (354436)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "354436",
+        "MATCH_SCORE": 88.88888888888889,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5252866121044,
+          43.4347186619706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106994,
+        "PROPERTY_UNIT_ID": 1022708,
+        "CIVIC_NO": 79,
+        "STREET": "MONTE CARLO ST",
+        "UNIT": null,
+        "OWNERNAME": "THRESHOLDS HOMES AND SUPPORTS INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "THRESHOLDS HOMES AND SUPPORTS INC. (5030059)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "5030059",
+        "MATCH_SCORE": 85.71428571428572,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4443822234584,
+          43.4528872546871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107687,
+        "PROPERTY_UNIT_ID": 1022323,
+        "CIVIC_NO": 85,
+        "STREET": "BRECKENRIDGE DR",
+        "UNIT": null,
+        "OWNERNAME": "HISLACAN HOMES KITCHENER-WATERLOO INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "HISLACAN HOMES KITCHENER-WATERLOO INC. (495856)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "495856",
+        "MATCH_SCORE": 88.09523809523809,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4323973304286,
+          43.3666640129034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109185,
+        "PROPERTY_UNIT_ID": 4014339,
+        "CIVIC_NO": null,
+        "STREET": "NEW DUNDEE RD",
+        "UNIT": null,
+        "OWNERNAME": "RARE CHARITABLE RESEARCH RESERVE",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "RARE CHARITABLE RESEARCH RESERVE (1506166)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1506166",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4638388046463,
+          43.4356496680295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110655,
+        "PROPERTY_UNIT_ID": 1042126,
+        "CIVIC_NO": 110,
+        "STREET": "DOON RD",
+        "UNIT": null,
+        "OWNERNAME": "ROCKWAY MENNONITE COLLEGIATE INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "ROCKWAY MENNONITE COLLEGIATE INC. (242384)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "242384",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4759504598535,
+          43.4143960261443
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114114,
+        "PROPERTY_UNIT_ID": 1061172,
+        "CIVIC_NO": 52,
+        "STREET": "CEDARHILL CRES",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5063253946646,
+          43.399900338873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114584,
+        "PROPERTY_UNIT_ID": 1076480,
+        "CIVIC_NO": 1643,
+        "STREET": "BLEAMS RD",
+        "UNIT": null,
+        "OWNERNAME": "FREEDOM IN CHRIST PENTECOSTAL ASSEMBLY",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "FREEDOM IN CHRIST PENTECOSTAL ASSEMBLY",
+        "BUSINESS_TYPE": "Federal Non-Profit",
+        "CORPORATION_NUMBER": "453626-6",
+        "MATCH_SCORE": 100.0,
+        "DATA_SOURCE": "charity_business_overlaps.csv"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4747684973777,
+          43.4148148736934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115168,
+        "PROPERTY_UNIT_ID": 1008516,
+        "CIVIC_NO": 16,
+        "STREET": "CEDARHILL CRES",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4922297098318,
+          43.4525313730505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118446,
+        "PROPERTY_UNIT_ID": 4014457,
+        "CIVIC_NO": 120,
+        "STREET": "DUKE ST W",
+        "UNIT": null,
+        "OWNERNAME": "WILFRID LAURIER UNIVERSITY",
+        "AGENCY": "UNIVERSITY/COLLEGE",
+        "MATCHED_BUSINESS_NAME": "WILFRID LAURIER UNIVERSITY (100472)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "100472",
+        "MATCH_SCORE": 85.24590163934427,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4847870466942,
+          43.448162091737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120063,
+        "PROPERTY_UNIT_ID": 1009263,
+        "CIVIC_NO": 254,
+        "STREET": "KING ST E",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4869033883264,
+          43.4664926076688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121118,
+        "PROPERTY_UNIT_ID": 1061977,
+        "CIVIC_NO": 55,
+        "STREET": "LEONARD ST",
+        "UNIT": null,
+        "OWNERNAME": "NORTHSIDE COMMUNITY CHURCH OF KITCHENER",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "NORTHSIDE COMMUNITY CHURCH OF KITCHENER",
+        "BUSINESS_TYPE": "Federal Non-Profit",
+        "CORPORATION_NUMBER": "408030-1",
+        "MATCH_SCORE": 100.0,
+        "DATA_SOURCE": "charity_business_overlaps.csv"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4751519773606,
+          43.4461021377165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121551,
+        "PROPERTY_UNIT_ID": 1021413,
+        "CIVIC_NO": 69,
+        "STREET": "STIRLING AVE N",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4753380654309,
+          43.4458512644772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121669,
+        "PROPERTY_UNIT_ID": 1052341,
+        "CIVIC_NO": 57,
+        "STREET": "STIRLING AVE N",
+        "UNIT": null,
+        "OWNERNAME": "STIRLING AVENUE MENNONITE CHURCH",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "STIRLING AVENUE MENNONITE CHURCH (1681469)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "1681469",
+        "MATCH_SCORE": 86.48648648648648,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4706719747336,
+          43.4327150312973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123779,
+        "PROPERTY_UNIT_ID": 1060993,
+        "CIVIC_NO": 333,
+        "STREET": "CARWOOD AVE",
+        "UNIT": null,
+        "OWNERNAME": "YMCA OF THREE RIVERS (MIDWESTERN ONTARIO",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "YMCA OF THREE RIVERS (MIDWESTERN ONTARIO) (680706)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "680706",
+        "MATCH_SCORE": 88.88888888888889,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.487820686761,
+          43.4354229813167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126686,
+        "PROPERTY_UNIT_ID": 1046413,
+        "CIVIC_NO": 109,
+        "STREET": "CHARLES BEST PL",
+        "UNIT": null,
+        "OWNERNAME": "K-W URBAN NATIVE WIGWAM PROJECT",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W URBAN NATIVE WIGWAM PROJECT (708893)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "708893",
+        "MATCH_SCORE": 87.32394366197182,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4919313048541,
+          43.4549964452459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129739,
+        "PROPERTY_UNIT_ID": 1018086,
+        "CIVIC_NO": 115,
+        "STREET": "WATER ST N",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5245114515583,
+          43.4478115365164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135750,
+        "PROPERTY_UNIT_ID": 1045482,
+        "CIVIC_NO": 10,
+        "STREET": "WESTWOOD DR",
+        "UNIT": null,
+        "OWNERNAME": "SLAVONIA-CROATIAN NON-PROFIT HOMES INC",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "SLAVONIA-CROATIAN NON-PROFIT HOMES INC. (689849)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "689849",
+        "MATCH_SCORE": 88.37209302325581,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.494039807897,
+          43.454405243094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139469,
+        "PROPERTY_UNIT_ID": 2037076,
+        "CIVIC_NO": 97,
+        "STREET": "VICTORIA ST N",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4898075233066,
+          43.4493070088595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141177,
+        "PROPERTY_UNIT_ID": 1024334,
+        "CIVIC_NO": 44,
+        "STREET": "QUEEN ST S",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4946281905177,
+          43.4543287721115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141835,
+        "PROPERTY_UNIT_ID": 1062352,
+        "CIVIC_NO": 83,
+        "STREET": "VICTORIA ST N",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4944162094076,
+          43.4544057970142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143285,
+        "PROPERTY_UNIT_ID": 1015476,
+        "CIVIC_NO": 87,
+        "STREET": "VICTORIA ST N",
+        "UNIT": null,
+        "OWNERNAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED",
+        "AGENCY": "PRIVATE",
+        "MATCHED_BUSINESS_NAME": "K-W WORKING CENTRE FOR THE UNEMPLOYED (525417)",
+        "BUSINESS_TYPE": "Not-for-Profit Corporation",
+        "CORPORATION_NUMBER": "525417",
+        "MATCH_SCORE": 89.1566265060241,
+        "DATA_SOURCE": "all_businesses.json"
+      }
+    }
+  ]
+}

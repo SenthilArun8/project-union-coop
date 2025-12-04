@@ -1,0 +1,97 @@
+================================================================================
+GEOJSON BUSINESS MATCHING SUMMARY REPORT
+Generated: 2025-12-03 19:29:20
+================================================================================
+
+Total unique owner names in GeoJSON: 3,522
+Matches found: 37 (1.1%)
+No matches: 3,485 (98.9%)
+
+--------------------------------------------------------------------------------
+MATCH QUALITY DISTRIBUTION
+--------------------------------------------------------------------------------
+  95-100% (Excellent): 5 (13.5%)
+  90-94% (Very Good): 0 (0.0%)
+  85-89% (Good): 32 (86.5%)
+
+--------------------------------------------------------------------------------
+MATCHES BY SOURCE FILE
+--------------------------------------------------------------------------------
+  all_businesses.json: 32 (86.5%)
+  charity_business_overlaps.csv: 5 (13.5%)
+
+--------------------------------------------------------------------------------
+MATCHES BY BUSINESS TYPE
+--------------------------------------------------------------------------------
+  Not-for-Profit Corporation: 22 (59.5%)
+  Co-operative Non-Share: 9 (24.3%)
+  Federal Non-Profit: 5 (13.5%)
+  Co-operative with Share: 1 (2.7%)
+
+--------------------------------------------------------------------------------
+TOP 20 BEST MATCHES
+--------------------------------------------------------------------------------
+1. FIRST MENNONITE CHURCH KITCHENER
+   → FIRST MENNONITE CHURCH KITCHENER (100.0%)
+   Type: Federal Non-Profit, Source: charity_business_overlaps.csv
+2. FREEDOM IN CHRIST PENTECOSTAL ASSEMBLY
+   → FREEDOM IN CHRIST PENTECOSTAL ASSEMBLY (100.0%)
+   Type: Federal Non-Profit, Source: charity_business_overlaps.csv
+3. GRANDVIEW BAPTIST CHURCH
+   → GRANDVIEW BAPTIST CHURCH (100.0%)
+   Type: Federal Non-Profit, Source: charity_business_overlaps.csv
+4. NORTHSIDE COMMUNITY CHURCH OF KITCHENER
+   → NORTHSIDE COMMUNITY CHURCH OF KITCHENER (100.0%)
+   Type: Federal Non-Profit, Source: charity_business_overlaps.csv
+5. MARTIN LUTHER EVANGELICAL CHURCH INC
+   → MARTIN LUTHER EVANGELICAL CHURCH, INC. (97.2972972972973%)
+   Type: Federal Non-Profit, Source: charity_business_overlaps.csv
+6. CHILD WITNESS CENTRE OF WATERLOO REGION
+   → CHILD WITNESS CENTRE OF WATERLOO REGION (557582) (89.65517241379311%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+7. K-W WORKING CENTRE FOR THE UNEMPLOYED
+   → K-W WORKING CENTRE FOR THE UNEMPLOYED (525417) (89.1566265060241%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+8. WHITE OWL NATIVE ANCESTRY ASSOCIATION
+   → WHITE OWL NATIVE ANCESTRY ASSOCIATION (313363) (89.1566265060241%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+9. IMMANUEL PENTECOSTAL CHURCH OF KITCHENER
+   → IMMANUEL PENTECOSTAL CHURCH OF KITCHENER (1699709) (88.88888888888889%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+10. TRAVERSE INDEPENDENCE NOT-FOR-PROFIT
+   → TRAVERSE INDEPENDENCE NOT-FOR-PROFIT (354436) (88.88888888888889%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+11. VERIDEIA CLASSICAL CHRISTIAN ACADEMY
+   → VERIDEIA CLASSICAL CHRISTIAN ACADEMY (750647) (88.88888888888889%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+12. YMCA OF THREE RIVERS (MIDWESTERN ONTARIO
+   → YMCA OF THREE RIVERS (MIDWESTERN ONTARIO) (680706) (88.88888888888889%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+13. TRUE JESUS CHURCH IN KITCHENER-WATERLOO
+   → TRUE JESUS CHURCH IN KITCHENER-WATERLOO (1950284) (88.63636363636364%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+14. SIMON BOLIVAR HOUSING CO-OPERATIVE INC
+   → SIMON BOLIVAR HOUSING CO-OPERATIVE INC. (522036) (88.37209302325581%)
+   Type: Co-operative Non-Share, Source: all_businesses.json
+15. SLAVONIA-CROATIAN NON-PROFIT HOMES INC
+   → SLAVONIA-CROATIAN NON-PROFIT HOMES INC. (689849) (88.37209302325581%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+16. HISLACAN HOMES KITCHENER-WATERLOO INC
+   → HISLACAN HOMES KITCHENER-WATERLOO INC. (495856) (88.09523809523809%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+17. NEW GENERATION CO-OPERATIVE HOMES INC
+   → NEW GENERATION CO-OPERATIVE HOMES INC. (522393) (88.09523809523809%)
+   Type: Co-operative Non-Share, Source: all_businesses.json
+18. WILLOWSIDE HOUSING CO-OPERATIVE INC
+   → WILLOWSIDE HOUSING CO-OPERATIVE INC. (522355) (87.5%)
+   Type: Co-operative Non-Share, Source: all_businesses.json
+19. K-W URBAN NATIVE WIGWAM PROJECT
+   → K-W URBAN NATIVE WIGWAM PROJECT (708893) (87.32394366197182%)
+   Type: Not-for-Profit Corporation, Source: all_businesses.json
+20. SPRUCEWOODS CO-OPERATIVE HOMES INC
+   → SPRUCEWOODS CO-OPERATIVE HOMES INC. (522605) (87.17948717948718%)
+   Type: Co-operative Non-Share, Source: all_businesses.json
+
+================================================================================
+END OF REPORT
+================================================================================
